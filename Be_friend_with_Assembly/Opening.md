@@ -1,0 +1,3 @@
+# 1. Be Friend with Assembly
+In this chpater, we learn about assembly language and how to use and read it. However, it is hard to learn assembly without any reference. Therefore, I choose the textbook which is most recommended in reddit. That is Link:["The Art of Assembly"][https://www.amazon.com/Art-Assembly-Language-2nd-dp-1593272073/dp/1593272073/ref=mt_paperback?_encoding=UTF8&me=&qid=1586080984]. If you service in ROKA, you can buy this book using the Solider Self Development Support.
+Each Chapter in this book is each folder in this repo. So, If you want to search about specified section, open that folder. 
